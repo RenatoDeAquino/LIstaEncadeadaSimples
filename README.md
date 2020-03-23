@@ -1,4 +1,4 @@
-# LstaEncadeadaSimples
+# ListaEncadeadaSimples
 O intuito do projeto é uma implementação de lista encadeada para fazer com que pessoas que estejam aprendendo tenham uma pequena implementação de uma funcionando para fazerem uma melhor
 
 ## Sobre o Projeto:
